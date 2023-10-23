@@ -1,0 +1,10 @@
+site_name: "demo_breeding"
+site_description: "new trial doc "
+repo_url: https://github.com/Bayer/https://github.com/bayer-int/breeding-dataform-velocity
+edit_uri: edit/main/docs
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
